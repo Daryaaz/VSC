@@ -1,3 +1,3 @@
-email - darja.zibkina
+email- darja.zibkina@gmail.com
 
 user.name - Daryaaz
