@@ -1,7 +1,1 @@
-# node_modules/
-
-#Ignoe Logs
-Logs
-
-#The file containing environment variables
-.env
+/help.md
